@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="129792" started-at="2018-12-04T04:27:01Z" finished-at="2018-12-04T04:29:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="129792" started-at="2018-12-04T04:27:01Z" finished-at="2018-12-04T04:29:10Z">
+      <class name="com.amazon.qa.test.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.amazon.qa.test.LoginPageTest@3532ec19]" name="setup" is-config="true" duration-ms="39710" started-at="2018-12-04T04:27:01Z" finished-at="2018-12-04T04:27:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Signin()[pri:1, instance:com.amazon.qa.test.LoginPageTest@3532ec19]" name="Signin" duration-ms="2391" started-at="2018-12-04T04:27:40Z" finished-at="2018-12-04T04:27:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.qa.test.LoginPageTest@3532ec19]" name="TearDown" is-config="true" duration-ms="1082" started-at="2018-12-04T04:27:43Z" finished-at="2018-12-04T04:27:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.amazon.qa.test.LoginPageTest@3532ec19]" name="setup" is-config="true" duration-ms="40190" started-at="2018-12-04T04:27:44Z" finished-at="2018-12-04T04:28:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateTitle()[pri:2, instance:com.amazon.qa.test.LoginPageTest@3532ec19]" name="validateTitle" duration-ms="191" started-at="2018-12-04T04:28:24Z" finished-at="2018-12-04T04:28:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.qa.test.LoginPageTest@3532ec19]" name="TearDown" is-config="true" duration-ms="969" started-at="2018-12-04T04:28:24Z" finished-at="2018-12-04T04:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.amazon.qa.test.LoginPageTest@3532ec19]" name="setup" is-config="true" duration-ms="37086" started-at="2018-12-04T04:28:25Z" finished-at="2018-12-04T04:29:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Login()[pri:3, instance:com.amazon.qa.test.LoginPageTest@3532ec19]" name="Login" duration-ms="7120" started-at="2018-12-04T04:29:02Z" finished-at="2018-12-04T04:29:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.qa.test.LoginPageTest@3532ec19]" name="TearDown" is-config="true" duration-ms="1008" started-at="2018-12-04T04:29:09Z" finished-at="2018-12-04T04:29:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.amazon.qa.test.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

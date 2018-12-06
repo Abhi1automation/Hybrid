@@ -1,0 +1,5 @@
+com\amazon\qa\pages\LoginPage.class
+com\amazon\qa\pages\SignInPage.class
+com\amazon\qa\bases\Testbase.class
+com\amazon\qa\pages\TodaysDealsPage.class
+com\amazon\qa\pages\HomePage.class
